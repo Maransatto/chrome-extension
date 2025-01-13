@@ -4,13 +4,13 @@
   "version": "0.0.1",
   "description": "This is the full description of the plugin",
   "author": "fernando.maransatto@gmail.com",
-  "default_locale": "en",
   "icons": {
     "16": "assets/icon.png",
     "48": "assets/icon.png",
     "128": "assets/icon.png"
   },
   "action": {
+    "default_popup": "popup.html",
     "default_icon": {
       "16": "assets/icon.png",
       "48": "assets/icon.png",
